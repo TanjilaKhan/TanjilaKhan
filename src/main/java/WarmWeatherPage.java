@@ -3,7 +3,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class WarmWeatherPage {
 
-    @FindBy(xpath = "//*[@id=\"wVIbdUo2p723lTSiJczUpQ\"]/div[1]/h2")
+    @FindBy(xpath = "//*[@id=\"rqpFadPQHOmozgxU5Uesww\"]/div[1]/h2")
     WebElement weather;
 
     String warmText(){
